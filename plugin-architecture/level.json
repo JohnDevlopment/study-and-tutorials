@@ -1,0 +1,31 @@
+{
+    "plugins": ["plugins.warlord"],
+    "characters": [
+	{
+	"type": "knight",
+	"name": "Kevin",
+	"hp": 300
+    },
+	{
+	"type": "assassin",
+	"name": "Marvin",
+	"hp": 50
+    },
+	{
+	"type": "knight",
+	"name": "Elisa"
+    },
+	{
+	"type": "warlord",
+	"name": "Dookie",
+	"hp": 200,
+	"territory": "Makamaka"
+    },
+	{
+	"type": "warlord",
+	"name": "Shaka",
+	"hp": 200,
+	"territory": "Junkar"
+    }
+    ]
+}
